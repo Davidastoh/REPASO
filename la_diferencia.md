@@ -1,0 +1,8 @@
+# LA DIFERENCIA ENTRE LAS LIBRERIRIAS Y LOS FRAMEWORKS
+Las bibliotecas y los frameworks son dos conceptos relacionados en el desarrollo de software, pero tienen diferencias significativas.
+## LIBRERERIAS 
+* Bibliotecas (Libraries): Una biblioteca es un conjunto de funciones y componentes reutilizables que se utilizan para realizar tareas específicas dentro de un programa. Estas bibliotecas proporcionan funcionalidades específicas y se pueden utilizar en diferentes proyectos. Las bibliotecas se pueden importar y utilizar según sea necesario en un programa, y los desarrolladores tienen un mayor control sobre cómo y cuándo utilizarlas. 
+## FRAMEWORCKS
+* Un framework es una estructura de trabajo que proporciona una base para desarrollar aplicaciones. A diferencia de las bibliotecas, los frameworks ofrecen una estructura más completa y predefinida para el desarrollo de aplicaciones. Los frameworks incluyen bibliotecas, herramientas y pautas para desarrollar aplicaciones de manera eficiente y coherente. Los desarrolladores deben seguir las convenciones y la arquitectura establecidas por el framework, lo que puede facilitar el desarrollo, pero también limitar la flexibilidad. 
+ 
+>En resumen, las bibliotecas son componentes reutilizables que se utilizan para realizar tareas específicas, mientras que los frameworks son estructuras de trabajo más completas que proporcionan una base para desarrollar aplicaciones. La elección entre utilizar una biblioteca o un framework depende de los requisitos del proyecto y las necesidades del desarrollo.
